@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AI_Helper_plugin-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\MainProject\FlyProject_End\Stole_DaVInchy\Intermediate\Build\Win64\Stole_DaVInchyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\MainProject\FlyProject_End\Stole_DaVInchy\Plugins\AI_Helper_plugin\Intermediate\Build\Win64\UE4Editor\Development\AI_Helper_plugin\Module.AI_Helper_plugin.cpp.obj"
+"F:\MainProject\FlyProject_End\Stole_DaVInchy\Plugins\AI_Helper_plugin\Intermediate\Build\Win64\UE4Editor\Development\AI_Helper_plugin\Module.AI_Helper_plugin.gen.cpp.obj"
+"F:\MainProject\FlyProject_End\Stole_DaVInchy\Plugins\AI_Helper_plugin\Intermediate\Build\Win64\UE4Editor\Development\AI_Helper_plugin\Default.rc2.res"
+/OUT:"F:\MainProject\FlyProject_End\Stole_DaVInchy\Plugins\AI_Helper_plugin\Intermediate\Build\Win64\UE4Editor\Development\AI_Helper_plugin\UE4Editor-AI_Helper_plugin-0002.lib"
